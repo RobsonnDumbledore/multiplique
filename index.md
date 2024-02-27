@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Palestra sobre Consciência, Amor ao Próximo e Seres Dimensionais</title>
