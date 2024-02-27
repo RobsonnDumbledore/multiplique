@@ -2,6 +2,16 @@
 <head>
   <title>Palestra sobre Consciência, Amor ao Próximo e Seres Dimensionais</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <style>
+  .background-image {
+    background-image: url('/images/pxfuel.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+  }
+</style>
+
 </head>
 <body>
 
@@ -11,7 +21,6 @@
 
 <div class="container mt-4">
   <h2>Palestra sobre Consciência, Amor ao Próximo e Seres Dimensionais</h2>
-  <!-- Conteúdo das palestras aqui -->
 </div>
 
 <footer class="footer bg-dark text-white fixed-bottom">
