@@ -13,7 +13,7 @@
 </style>
 
 </head>
-<body>
+<body class="background-image">
 
 <header class="bg-dark text-white text-center py-3">
   <h1>Bem-vindo</h1>
