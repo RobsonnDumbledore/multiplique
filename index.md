@@ -1,26 +1,28 @@
----
-layout: default
-title: Palestra sobre Consciência, Amor ao Próximo e Seres Dimensionais
----
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Palestra sobre Consciência, Amor ao Próximo e Seres Dimensionais</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+</head>
+<body>
 
-<div style="background-image: url('/images/pxfuel.jpg'); height: 300px; background-size: cover; color: white; display: flex; align-items: center; justify-content: center;">
+<header class="bg-dark text-white text-center py-3">
   <h1>Bem-vindo</h1>
+</header>
+
+<div class="container mt-4">
+  <h2>Palestra sobre Consciência, Amor ao Próximo e Seres Dimensionais</h2>
+  <!-- Conteúdo das palestras aqui -->
 </div>
 
-## Palestra sobre Consciência, Amor ao Próximo e Seres Dimensionais
+<footer class="footer bg-dark text-white fixed-bottom">
+  <div class="container text-center py-3">
+    Contato para Palestras: <a href="mailto:email@exemplo.com" class="text-warning">email@exemplo.com</a> | Tel: (XX) XXXXX-XXXX
+  </div>
+</footer>
 
-Estamos organizando uma série de palestras focadas em expandir a consciência, promover o amor ao próximo e explorar a existência de seres dimensionais. Se você tem interesse em temas que transcendem a compreensão cotidiana e buscam explorar as profundezas do ser, estas palestras são para você.
-
-### Por Que Participar?
-
-- **Expansão da Consciência**: Entender aspectos profundos do ser e do universo.
-- **Amor ao Próximo**: Aprender a cultivar relações mais profundas e empáticas.
-- **Seres Dimensionais**: Explorar a possibilidade de vida além da compreensão humana tradicional.
-
-### Interessado?
-
-Se você deseja participar ou saber mais, por favor, entre em contato conosco:
-
-<div style="position: fixed; bottom: 0; width: 100%; background-color: #333; color: white; padding: 10px; text-align: center;">
-  Contato para Palestras: <a href="mailto:email@exemplo.com" style="color: #FFD700;">email@exemplo.com</a> | Tel: (XX) XXXXX-XXXX
-</div>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>
+</html>
